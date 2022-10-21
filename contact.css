@@ -1,0 +1,53 @@
+a {
+  text-decoration: none;
+}
+
+.menu {
+  padding-right: 35%;
+  background-color: teal;
+  position: fixed;
+  display: flex;
+}
+
+.menu :hover {
+  color: BLACK;
+}
+
+.picture {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.facebook, .gmail, .instagram {
+  margin-top: 15px;
+  font-size: 15px;
+  color: white;
+  margin-left: -5px;
+}
+
+.footer-contact {
+  color: white;
+  display: flex;
+  margin-left: 250px;
+}
+
+form {
+  max-width: 600px;
+  text-align: center;
+  margin: 20px auto;
+}
+
+input, textarea {
+  border: 0;
+  padding: 10px;
+  display: block;
+  width: 100%;
+  margin-top: 30px;
+  font-family: helvetica;
+}
+
+.submit {
+  max-width: 100px;
+  text-align: center;
+  margin: 20px auto;
+}

@@ -1,0 +1,54 @@
+body {
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.table {
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-size: 30px;
+  color: white;
+  padding: 20px;
+}
+
+th:hover {
+  background-color: #8b525229;
+  border-radius: 5px;
+}
+
+.backgound-pic {
+  float: right;
+}
+
+.info-container {
+  background-color: #8b525229;
+  margin-left: 10%;
+  margin-top: 8%;
+  margin-right: 37%;
+  border-radius: 10px;
+  padding-bottom: 40px;
+  padding-right: 15px;
+}
+
+.Info {
+  color: white;
+  float: none;
+  margin-left: 5%;
+  margin-top: 8%;
+  font-family: helvetica;
+  padding: 10px;
+  font-size: 80px;
+}
+
+.info-sub {
+  color: white;
+  margin-left: 5%;
+  float: none;
+  font-size: 30px;
+}

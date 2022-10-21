@@ -1,0 +1,100 @@
+h1 {
+  color: white;
+}
+
+.Header-Name, .Resume {
+  font-size: 40px;
+  background-color: #0080809e;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+.Hobby-Container {
+  font-size: 20px;
+  color: white;
+  margin-left: 280px;
+}
+
+.Skills-Container {
+  font-size: 20px;
+  color: white;
+  margin-left: 270px;
+}
+
+.Movie-Container {
+  font-size: 20px;
+  color: white;
+  margin-left: 100px;
+}
+
+.Song-Container {
+  font-size: 20px;
+  color: white;
+  margin-left: 100px;
+}
+
+.line2, .line3 {
+  background-color: white;
+  margin-left: 267px;
+}
+
+.line3 {
+  margin-left: 250px;
+}
+
+.Movie-Container{
+margin-left: 20px;
+}
+
+.Song-Container{
+margin-left: 50px;
+}
+
+.name, .info, .hobby, .movie, .Song, .Skills {
+  color: black;
+}
+
+.hobby-Movie-Container, .Skills-Song-Container {
+  display: flex;
+  margin-top: 10px;
+  padding: 5px;
+  background-color: #0080809e;
+}
+
+.container-Profile, .container-Info {
+  margin-right: 30px;
+  color: white;
+}
+
+.container {
+  display: flex;
+  background-color: #0080809e;
+  padding: 10px;
+}
+
+.cstc {
+  color: white;
+  font-size: 20px;
+}
+
+.container-Profile {
+  font-size: 20px;
+  color: white;
+}
+
+.container-Info {
+  margin-left: 100px;
+  font-size: 20px;
+}
+
+.line {
+  background-color: white;
+  color: white;
+}
+
+.resume {
+  margin-top: 50px;
+}
